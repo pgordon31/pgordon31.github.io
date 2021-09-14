@@ -1,15 +1,15 @@
 {
 	"Restaurants in Berkeley": [{
 		"Restaurant": "Zacharays",
-		"Comment": "Zacharys is a great place to go if you are craving deep dish pizza in Berkeley."
+		"": "Zacharys is a great place to go if you are craving deep dish pizza in Berkeley."
 	},
 	{
 		"Restaurant": "Cholita Linda",
-		"Comment": "Cholita Linda serves tasty Mexican food, and is technically in Oakland, but is amazing nonetheless, so it had to make the list"	
+		"": "Cholita Linda serves tasty Mexican food, and is technically in Oakland, but is amazing nonetheless, so it had to make the list"	
 	},
 	{
 		"Restaurant": "Pollara Pizzaria",
-		"Comment": "Pollara Pizzaria is another really great pizza place in Berkeley."
+		"": "Pollara Pizzaria is another really great pizza place in Berkeley."
 
 	}]
 	
