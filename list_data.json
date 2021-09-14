@@ -1,19 +1,19 @@
 {
 	
 	“Restaurants in Berkeley” :[ { 
-		“Zacharys”,
-		“Zachary’s is a great place to go if you’re craving deep dish pizza in Berkeley.",
+		“Restaurant”: "Zachary's",
+		"Comment": “Zachary’s is a great place to go if you’re craving deep dish pizza in Berkeley.",
 	
 	  },
 	 {	
 		 
-		“Cholita Linda”,
-		“Cholita Linda serves tasty Mexican food and is technically in Oakland, but amazing nonetheless, so it had to make the list.”,
+		"Restaurant“: "Cholita Linda”,
+		"Comment": “Cholita Linda serves tasty Mexican food and is technically in Oakland, but amazing nonetheless, so it had to make the list.”,
 
 	},
 	{
-		“Pollara Pizzaria” 
-		“Pollara is another really great pizza place in Berkeley. It is a little pricey but worth every penny!”, 
+		"Restaurant“: "Pollara Pizzaria”,
+		"Comment": “Pollara is another really great pizza place in Berkeley. It is a little pricey but worth every penny!”, 
 
 	} ]
 
